@@ -55,14 +55,16 @@ RegisterNumber:24900006
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2024-12-25 140644](https://github.com/user-attachments/assets/b230cb5b-23a3-4852-bd1c-2ee1ec4d7a6d)
 
+![387675867-743e0081-c1ad-49c6-9e0f-ad6403278c67](https://github.com/user-attachments/assets/65a3a099-4162-4414-a3a5-95e792736adc)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-25 140654](https://github.com/user-attachments/assets/58d74f27-238d-4e07-aaaf-13c2e3c41682)
+![Screenshot 2024-12-25 172906](https://github.com/user-attachments/assets/db6d0a2f-0cbb-4b5b-9875-1e284526b320)
+
 
 
 **RESULT:**
+
  Thus the truth table of D flipflop is verified in quartus using Verilog programming.
